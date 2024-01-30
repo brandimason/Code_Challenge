@@ -25,6 +25,3 @@ def get_weather(latitude, longitude):
     response = requests.get(url)
     
     return response.json()
-
-
-    

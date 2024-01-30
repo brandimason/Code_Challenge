@@ -11,11 +11,17 @@ The data should be fetched from remote endpoints (as opposed to hard-coding raw 
 This is an opportunity to be creative, have fun, and also show off your skills.
 
 ## Installation
-1. Fork and clone this repo from Github to your local environment.
-2. Navigate into your local directory and open the contents in your preferred code editor.
-3. Run the command `pip install -r requirements.txt` to install the necessary packages needed to work on developing the package.
-4. If you'd like to run a virtual environment, run the command `source virtualenv/bin/activate` and then `flask run` to run the backend server.
-5. In a new terminal, CD into the client folder and to the src folder. Run the command `npm start`.
+1. You will need API keys in order to access the API information. To retrieve your own API Key, create an account with following links: (follow the instructions to retrieve your API keys)<br>
+[OpenWeatherAPI](https://openweathermap.org/forecast5)<br>
+[Ski Resorts and Conditions](https://rapidapi.com/random-shapes-random-shapes-default/api/ski-resorts-and-conditions)<br>
+2. Fork and clone this repo from Github to your local environment.
+3. Navigate into your local directory and open the contents in your preferred code editor.
+4. Navigate into the server folder and run the command `pip install -r requirements.txt` to install the necessary packages needed to work on developing the package.
+5. From the server folder, create a new folder named <i>hider</i> with a file named <i>passwords.py</i>. Create your api keys named <i>api_key_ski</i> and <i>api_key_weather</i>.
+4. Run the command `flask run` to run the backend server. 
+<b><u>Important Note:</u></b> The Ski Resort API is allowed 10 free requests per day. Once you have hit your limit, you can restart the server with the command `flask run --debug`
+5. In a new terminal, navigate into the client folder and to the src folder. Run the command `npm start`.
+
 
 ## Features
 🏂  View ski resorts in North America <br>
