@@ -1,0 +1,285 @@
+{
+    "data": [
+      {
+        "country": "US",
+        "location": {
+          "latitude": 48.302353,
+          "longitude": -117.564011
+        },
+        "name": "49 Degrees North",
+        "region": "WA",
+        "slug": "49-degrees-north",
+        "url": "https://api.skiapi.com/v1/resort/49-degrees-north"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.148201,
+          "longitude": -120.150902
+        },
+        "name": "Alpine Meadows",
+        "region": "CA",
+        "slug": "alpine-meadows",
+        "url": "https://api.skiapi.com/v1/resort/alpine-meadows"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 40.583828,
+          "longitude": -111.63726
+        },
+        "name": "Alta",
+        "region": "UT",
+        "slug": "alta",
+        "url": "https://api.skiapi.com/v1/resort/alta"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 60.961445,
+          "longitude": -149.102676
+        },
+        "name": "Alyeska",
+        "region": "AK",
+        "slug": "alyeska",
+        "url": "https://api.skiapi.com/v1/resort/alyeska"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 36.387402,
+          "longitude": -105.273903
+        },
+        "name": "Angel Fire",
+        "region": "NM",
+        "slug": "angel-fire",
+        "url": "https://api.skiapi.com/v1/resort/angel-fire"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.642464,
+          "longitude": -105.871872
+        },
+        "name": "Arapaho Basin",
+        "region": "CO",
+        "slug": "arapahoe-basin",
+        "url": "https://api.skiapi.com/v1/resort/arapahoe-basin"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.182522,
+          "longitude": -106.855904
+        },
+        "name": "Aspen Highlands",
+        "region": "CO",
+        "slug": "aspen-highlands",
+        "url": "https://api.skiapi.com/v1/resort/aspen-highlands"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.186714,
+          "longitude": -106.819275
+        },
+        "name": "Aspen Mountain",
+        "region": "CO",
+        "slug": "aspen-mountain",
+        "url": "https://api.skiapi.com/v1/resort/aspen-mountain"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 44.077778,
+          "longitude": -71.282776
+        },
+        "name": "Attitash",
+        "region": "NH",
+        "slug": "attitash",
+        "url": "https://api.skiapi.com/v1/resort/attitash"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.600464,
+          "longitude": -106.517899
+        },
+        "name": "Beaver Creek",
+        "region": "CO",
+        "slug": "beavercreek",
+        "url": "https://api.skiapi.com/v1/resort/beavercreek"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 45.283333,
+          "longitude": -111.401389
+        },
+        "name": "Big Sky",
+        "region": "MT",
+        "slug": "big-sky",
+        "url": "https://api.skiapi.com/v1/resort/big-sky"
+      },
+      {
+        "country": "CA",
+        "location": {
+          "latitude": 49.888,
+          "longitude": -119.495399
+        },
+        "name": "Big White",
+        "region": "BC",
+        "slug": "big-white",
+        "url": "https://api.skiapi.com/v1/resort/big-white"
+      },
+      {
+        "country": "CA",
+        "location": {
+          "latitude": 44.50758,
+          "longitude": -80.316116
+        },
+        "name": "Blue Mountain",
+        "region": "ON",
+        "slug": "bluemountain",
+        "url": "https://api.skiapi.com/v1/resort/bluemountain"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 44.421673,
+          "longitude": -72.84948
+        },
+        "name": "Bolton Valley",
+        "region": "VT",
+        "slug": "bolton-valley",
+        "url": "https://api.skiapi.com/v1/resort/bolton-valley"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.316502,
+          "longitude": -120.270203
+        },
+        "name": "Boreal",
+        "region": "CA",
+        "slug": "boreal",
+        "url": "https://api.skiapi.com/v1/resort/boreal"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.480724,
+          "longitude": -106.066238
+        },
+        "name": "Breckenridge",
+        "region": "CO",
+        "slug": "breck",
+        "url": "https://api.skiapi.com/v1/resort/breck"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 44.077122,
+          "longitude": -71.340408
+        },
+        "name": "Bretton Woods",
+        "region": "NH",
+        "slug": "brettonwoods",
+        "url": "https://api.skiapi.com/v1/resort/brettonwoods"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 37.692753,
+          "longitude": -112.848129
+        },
+        "name": "Brian Head",
+        "region": "UT",
+        "slug": "brianhead",
+        "url": "https://api.skiapi.com/v1/resort/brianhead"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 45.817974,
+          "longitude": -110.89814
+        },
+        "name": "Bridger Bowl",
+        "region": "MT",
+        "slug": "bridger-bowl",
+        "url": "https://api.skiapi.com/v1/resort/bridger-bowl"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 40.620697,
+          "longitude": -111.592041
+        },
+        "name": "Brighton",
+        "region": "UT",
+        "slug": "brighton",
+        "url": "https://api.skiapi.com/v1/resort/brighton"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 43.213402,
+          "longitude": -72.935013
+        },
+        "name": "Bromley Mountain",
+        "region": "VT",
+        "slug": "bromley-mountain",
+        "url": "https://api.skiapi.com/v1/resort/bromley-mountain"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 44.587898,
+          "longitude": -71.91745
+        },
+        "name": "Burke Mountain",
+        "region": "VT",
+        "slug": "burke-mountain",
+        "url": "https://api.skiapi.com/v1/resort/burke-mountain"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 39.206944,
+          "longitude": -106.860474
+        },
+        "name": "Buttermilk",
+        "region": "CO",
+        "slug": "buttermilk",
+        "url": "https://api.skiapi.com/v1/resort/buttermilk"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 44.245014,
+          "longitude": -85.719765
+        },
+        "name": "Caberfae Peaks",
+        "region": "MI",
+        "slug": "caberfae-peaks",
+        "url": "https://api.skiapi.com/v1/resort/caberfae-peaks"
+      },
+      {
+        "country": "US",
+        "location": {
+          "latitude": 41.051389,
+          "longitude": -75.355
+        },
+        "name": "Camelback Mountain",
+        "region": "PA",
+        "slug": "camelback",
+        "url": "https://api.skiapi.com/v1/resort/camelback"
+      }
+    ],
+    "next_page": 2,
+    "page": 1,
+    "per_page": 25,
+    "pre_page": null,
+    "total": 148,
+    "total_pages": 6
+  }
