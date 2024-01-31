@@ -48,14 +48,17 @@ This is an opportunity to be creative, have fun, and also show off your skills.
 [Figma Outline](https://www.figma.com/file/vwcOVlNCcq5RmfRDXzSRuN/SnowDayz?type=whiteboard&node-id=0-1&t=ZQu3MTXyTWSBI5Yt-0)<br>
 [OpenWeatherAPI](https://openweathermap.org/forecast5)<br>
 [Ski Resorts and Conditions](https://rapidapi.com/random-shapes-random-shapes-default/api/ski-resorts-and-conditions)<br>
+[Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/installation/)<br>
+[Python Request](https://pypi.org/project/requests/)<br>
+[Flask CORS](https://flask-cors.readthedocs.io/en/latest/)<br>
 [Python Built-In Types](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict)<br>
 [Create React App](https://create-react-app.dev/)<br>
-[Flask CORS](https://flask-cors.readthedocs.io/en/latest/)<br>
 [Modal Component](https://www.geeksforgeeks.org/how-to-use-modal-component-in-reactjs/)<br>
-[Tailwind](https://tailwindcomponents.com/cheatsheet/)<br>
+[Tailwind CSS](https://tailwindcomponents.com/cheatsheet/)<br>
 [Requests Library Documentation](https://requests.readthedocs.io/en/latest/user/quickstart/)<br>
 [NPM Spinner Doc](https://www.npmjs.com/package/react-loader-spinner)<br>
 [Three Circles Spinner](https://mhnpd.github.io/react-loader-spinner/docs/components/three-circles)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
