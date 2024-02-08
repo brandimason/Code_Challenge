@@ -1,4 +1,3 @@
-## Code_Challenge
 # 🎿 Ski Days
 
 An informational site that provides the resorts in North America with the weather for their location.
