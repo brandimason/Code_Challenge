@@ -2,13 +2,6 @@
 
 An informational site that provides the resorts in North America with the weather for their location.
 
-## Mashup Instructions for Challenge:
-Create a mashup of 2 (or more!) data sources and present the results in an appropriate UI.
-
-The data should be fetched from remote endpoints (as opposed to hard-coding raw data). The data sources, the presentation, and underlying language & framework/libraries used are all your choice.
-
-This is an opportunity to be creative, have fun, and also show off your skills.
-
 ## Installation
 1. You will need API keys in order to access the API information. To retrieve your own API Key, create an account with following links: (follow the instructions to retrieve your API keys)<br>
 [OpenWeatherAPI](https://openweathermap.org/forecast5)<br>
