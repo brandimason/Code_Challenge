@@ -36,7 +36,6 @@ An informational site that provides the resorts in North America with the weathe
 - Search bar to search for resort
 
 ## References
-[Notion Instructions](https://letsbatch.notion.site/Mashup-e8a820b0633342cda59953ffe730d3dd) <br>
 [Figma Outline](https://www.figma.com/file/vwcOVlNCcq5RmfRDXzSRuN/SnowDayz?type=whiteboard&node-id=0-1&t=ZQu3MTXyTWSBI5Yt-0)<br>
 [OpenWeatherAPI](https://openweathermap.org/forecast5)<br>
 [Ski Resorts and Conditions](https://rapidapi.com/random-shapes-random-shapes-default/api/ski-resorts-and-conditions)<br>
